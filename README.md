@@ -6,8 +6,6 @@ Reads a string from `stdin` parses it as json and prints it out as a pretty json
 
 ## Installation Notes
 
-Currently, the installation through cargo is supported.
-
 ### Requirements
 
 - Rust _(2021 edition)_
@@ -46,9 +44,9 @@ You can easily install the latest published version of `json-pp-rust` with `carg
       ]
     }
 
-# Contributing
+## Contributing
 
-## How to build the software
+### How to build the software
 
 Cargo is used as the package manager and build system for `json-pp-rust`.
 
@@ -58,21 +56,21 @@ Cargo is used as the package manager and build system for `json-pp-rust`.
     $ ./target/release/json-pp-rust --version
 
 
-## How to test the software
+### How to test the software
 
 The unit-tests of this repository can be used to test the functionality of this library.
 
     cargo test
 
-## Known issues
+### Known issues
 
 There are currently no know issues with this tool.
 
-## Getting help
+### Getting help
 
 Please you the issue tracker of the github repository if you have any problems using the library.
 
-## Getting involved
+### Getting involved
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -80,6 +78,6 @@ Please make sure to update tests as appropriate.
 
 For more information see [CONTRIBUTING](CONTRIBUTING.md).
 
-## License
+### License
 
 This software is released under the MIT License.
