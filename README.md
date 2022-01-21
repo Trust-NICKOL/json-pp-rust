@@ -1,6 +1,6 @@
 # json-pp-rust
 
-Faster alternative to `json-pp` written in Rust, using serde-json. 
+Faster alternative to `json_pp` written in Rust, using `serde-json`. 
 
 Reads a string from `stdin` parses it as json and prints it out as a pretty json string.
 
