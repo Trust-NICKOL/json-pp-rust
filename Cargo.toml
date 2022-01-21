@@ -1,6 +1,6 @@
 [package]
 name = "json-pp-rust"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Reads a string from `stdin` parses it as json and prints it out as a pretty json string."
 readme = "README.md"
